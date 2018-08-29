@@ -5,7 +5,6 @@ gkh3fcbpro8.tex
 sb0euf6auo8.tex
 urjitg6bsi8.tex
 jnj4jtmr3s.tex
-u0bhtvl719o.tex
 ts7dbvooplg.tex
 jrahqs0s3n8.tex
 e2imubh0j9.tex
