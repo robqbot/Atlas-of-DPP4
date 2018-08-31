@@ -7,7 +7,6 @@ urjitg6bsi8.tex
 jnj4jtmr3s.tex
 edr2bt3lshg.tex
 c0i8cbkutg8.tex
-ttid4tdmppg.tex
 ts7dbvooplg.tex
 jrahqs0s3n8.tex
 e2imubh0j9.tex
