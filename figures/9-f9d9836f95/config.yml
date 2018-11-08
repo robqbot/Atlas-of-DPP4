@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/9-f9d9836f95/9-f9d9836f95.png
+  - path: figures/9-f9d9836f95/secretome2.png
     type: static
     from:
     - 1
@@ -16,4 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/74776/articles/320467/master/file/figures/9-f9d9836f95/9-f9d9836f95.png"
+    folder_url: "/users/74776/articles/320467/master/folder/figures/9-f9d9836f95"
+    url: "/users/74776/articles/320467/master/file/figures/9-f9d9836f95/secretome2.png"
