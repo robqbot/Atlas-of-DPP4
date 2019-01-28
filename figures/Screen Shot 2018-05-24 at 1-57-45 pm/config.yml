@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/Screen Shot 2018-05-24 at 1-57-45 pm/Screen Shot 2018-05-24 at 1-57-45
+      pm.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/74776/articles/320467/master/file/figures/Screen%20Shot%202018-05-24%20at%201-57-45%20pm/Screen%20Shot%202018-05-24%20at%201-57-45%20pm.png"
