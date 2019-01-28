@@ -13,5 +13,6 @@ ts7dbvooplg.tex
 jrahqs0s3n8.tex
 e2imubh0j9.tex
 akjfqj3a2vo.tex
+figures/Screen Shot 2018-05-24 at 1-57-45 pm
 berl1vj9pp.tex
 m387pkkfbpo.html
