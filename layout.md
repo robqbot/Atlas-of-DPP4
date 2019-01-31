@@ -9,8 +9,8 @@ edr2bt3lshg.tex
 figures/9-f9d9836f95
 c0i8cbkutg8.tex
 ts7dbvooplg.tex
-vof3jfhn8jo.tex
 jrahqs0s3n8.tex
+vof3jfhn8jo.tex
 e2imubh0j9.tex
 akjfqj3a2vo.tex
 figures/Screen Shot 2018-05-24 at 1-57-45 pm
