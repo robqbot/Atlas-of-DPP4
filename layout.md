@@ -13,7 +13,6 @@ jrahqs0s3n8.tex
 2l9k7k074b.tex
 vof3jfhn8jo.tex
 int65mqd818.tex
-kfid1nudrk.tex
 ti0153h1bt8.tex
 figures/Neu5Ac
 e2imubh0j9.tex
@@ -22,4 +21,5 @@ figures/Screen Shot 2018-05-24 at 1-57-45 pm
 figures/Multiple_alignment_copy1
 e5fo7jnpkmg.tex
 berl1vj9pp.tex
+kfid1nudrk.tex
 m387pkkfbpo.html
