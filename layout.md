@@ -14,8 +14,8 @@ jrahqs0s3n8.tex
 vof3jfhn8jo.tex
 int65mqd818.tex
 kfid1nudrk.tex
-figures/Neu5Ac
 ti0153h1bt8.tex
+figures/Neu5Ac
 e2imubh0j9.tex
 akjfqj3a2vo.tex
 figures/Screen Shot 2018-05-24 at 1-57-45 pm
