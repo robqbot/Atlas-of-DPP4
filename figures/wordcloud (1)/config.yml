@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/wordcloud (1)/wordcloud (1).svg
+  - path: figures/wordcloud (1)/wordcloud.svg
     type: static
     from:
     - 1
@@ -16,4 +16,5 @@ grid:
     to:
     - 1
     - 1
-    url: "/users/74776/articles/320467/master/file/figures/wordcloud%20(1)/wordcloud%20(1).svg"
+    folder_url: "/users/74776/articles/320467/master/folder/figures/wordcloud (1)"
+    url: "/users/74776/articles/320467/master/file/figures/wordcloud%20(1)/wordcloud.svg"
